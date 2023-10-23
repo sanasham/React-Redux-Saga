@@ -1,0 +1,13 @@
+.Cart_Container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-right: 10px;
+}
+img {
+  width: 30px;
+  height: 30px;
+}
+#cart {
+  margin-bottom: 3px;
+}
