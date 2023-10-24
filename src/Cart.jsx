@@ -1,4 +1,3 @@
-import React from "react";
 import cart from "./assets/images/cart-image.png";
 import "./Cart.css";
 import { useSelector } from "react-redux/es/hooks/useSelector";
